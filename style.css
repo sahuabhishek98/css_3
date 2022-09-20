@@ -78,16 +78,22 @@ img{
     margin-top: 340px;
 }
 .stick{
-    width: 500px;
-    height: 80px;
-    border: 6px solid red;
-    box-shadow: 8px 10px purple;
+    background-color: yellowgreen;
+    
     border-radius: 15px;
-    position:absolute;
-    text-align: center;
-    background-color: greenyellow;
-    margin-top: 650px;
-    margin-left: 450px;
+    height: 80px;
+    width: 600px;
+    border: 5px solid red;
+    box-shadow: 10px 10px 5px purple;
+    font-weight: 900;
+    color: maroon;
+    position: fixed;
+    bottom: 0px; 
+     z-index: +1;
+     margin-left: 380px;
+     margin-bottom: 5%;
+     text-align: center;
+
 
 }
 .second-box{
