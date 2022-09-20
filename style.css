@@ -1,0 +1,133 @@
+body{
+    background-color: grey;
+}
+
+.box-1{
+    width: 490px;
+    height: 150px;
+    background-color: white;
+    border: 6px solid red;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 33px;
+    margin-left: 500px;
+    margin-top: 25px;
+    text-shadow: 2px 2px 8px maroon;
+    box-shadow: 8px 10px purple;
+}
+.container{
+    width: 100%;
+    height: 720px;
+    border: 8px solid green;
+}
+.box-2{
+    width:300px;
+    height: 240px;
+    background-color: white;
+    border: 6px solid red;
+    box-shadow: 8px 10px purple;
+    font-size: 33px;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+    border-radius: 15px;
+    float: left;
+}
+img{
+    width: 250px;
+    height: 220px;
+}
+.box-3{
+    width:300px;
+    height: 240px;
+    background-color: white;
+    border: 6px solid red;
+    box-shadow: 8px 10px purple;
+    font-size: 33px;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+    border-radius: 15px;
+    float: right;
+    margin-right: 80px;
+}
+.box-4{
+    width:300px;
+    height: 280px;
+    background-color: white;
+    border: 6px solid red;
+    box-shadow: 8px 10px purple;
+    font-size: 33px;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+    border-radius: 15px;
+    float: left;
+    margin-left: -300px;
+    margin-top: 350px;
+}
+.box-5{
+    width:300px;
+    height: 300px;
+    background-color: white;
+    border: 6px solid red;
+    box-shadow: 8px 10px purple;
+    font-size: 33px;
+    text-align: center;
+    text-shadow: 2px 2px 8px black;
+    border-radius: 15px;
+    float: right;
+    margin-right: -320px;
+    margin-top: 340px;
+}
+.stick{
+    width: 500px;
+    height: 80px;
+    border: 6px solid red;
+    box-shadow: 8px 10px purple;
+    border-radius: 15px;
+    position:absolute;
+    text-align: center;
+    background-color: greenyellow;
+    margin-top: 650px;
+    margin-left: 450px;
+
+}
+.second-box{
+    width: 800px;
+    height: 580px;
+    border: 10px solid  purple;
+    margin-top: 30px;
+    margin-left: 320px;
+    background-color: green;
+}
+.welcome{
+    background-color: green;
+    height: 80px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 35px;
+}
+.Fruits{
+    width: 400px;
+    height: 250px;
+    background-color:rgba(243, 243, 11, 0.795);
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 8px;
+    float: left;
+}
+.vegis{
+    width: 380px;
+    height: 250px;
+    background-color: rgba(243, 243, 11, 0.795);
+    text-align: center;
+    margin-top: 2px;
+    margin-right: 8px;
+    float: right;
+}
+.other{
+    width: 790px;
+    text-align: center;
+    background-color: rgba(243, 243, 11, 0.795);
+    margin-top: 280px;
+    margin-left: 10px;
+}
